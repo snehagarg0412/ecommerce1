@@ -1,0 +1,7 @@
+.banner-image {
+    background: url('shop.jpg') no-repeat center center / cover;
+    min-height: 600px;
+}
+.home{
+    width: 100%;
+}
